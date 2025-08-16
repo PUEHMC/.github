@@ -1,5 +1,5 @@
 # 欢迎来到PUEHMC · Welcome to PUEH on Github!
-<img src="https://wiki.pueh.cc/assets/bg.png" width="633">
+<img src="https://wiki.pueh.cn/assets/bg.png" width="633">
 
 ## 🔮联系我们 · Contact us
 - ⛩️官网：https://pueh.cn
